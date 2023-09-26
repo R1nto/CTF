@@ -28,3 +28,18 @@ pertama kita download dulu lampirannya
 7c6/flag.txt.en
 ```
 
+setelah itu kita jalankan file python nya dan tidak lupa dengan text flagnya.
+
+```console
+┌──(rinto㉿LAPTOP-LUUOMDHF)-[~/CTF/pico/python_wrangling]
+└─$ python3 ende.py -d flag.txt.en 
+Please enter the password:67c6cc9667c6cc9667c6cc9667c6cc96
+picoCTF{4p0110_1n_7h3_h0us3_67c6cc96}
+```
+
+**picoCTF{4p0110_1n_7h3_h0us3_67c6cc96}**
+
+
+
+
+
