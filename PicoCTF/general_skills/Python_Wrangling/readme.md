@@ -2,7 +2,7 @@
 
 Category : General Skills
 
-Points : 5
+Points :   10
 
 ![image](images/Python_Wrangling.png)
 
