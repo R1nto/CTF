@@ -2,6 +2,8 @@
 
 Category : General Skills
 
+
+
 Points : 5
 
 ![image](images/obedient_cat.png)
