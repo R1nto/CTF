@@ -13,7 +13,7 @@ Additional details will be available after launching your challenge instance.
 
 # Solve 
 
-Pertama saya klik launch instance lalu masukkan ssh 
+Pertama saya klik launch instance lalu masukkan ssh ke terminal
 
 ```console
 ┌──(rinto㉿LAPTOP-LUUOMDHF)-[~]
