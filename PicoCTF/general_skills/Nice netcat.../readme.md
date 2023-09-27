@@ -3,7 +3,7 @@
 Category : General Skills 
 Point : 15 
 
-![images](Obedient_Cat/images/Nice_Netcat.png)
+![images](https://github.com/R1nto/CTF/blob/main/PicoCTF/general_skills/Obedient_Cat/images/Nice_Netcat.png)
 
 ## Description
 
