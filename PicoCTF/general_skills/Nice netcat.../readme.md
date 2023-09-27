@@ -62,6 +62,6 @@ Jadi kita diberi sebuah nc lalu buka nc nya
 
 setelah melihat isi dari nc tersebut saya berkesimpulan bahwa ini harus di decrypt jadi saya ke tool andalan saya yaitu cyberchef(https://gchq.github.io/CyberChef)
 
-
+![images](https://github.com/R1nto/CTF/blob/main/PicoCTF/general_skills/Obedient_Cat/images/cyberchef.png)
 
 **picoCTF{g00d_k1tty!_n1c3_k1tty!_9b3b7392}**
