@@ -18,14 +18,11 @@ pertama kita download dulu lampirannya
 
 ```console
 ┌──(rinto㉿LAPTOP-LUUOMDHF)-[~/CTF/pico/python_wrangling]
-└─$ wget https://mercury.picoctf.net/static/b351a89e0bc6745b00716849105f8
-7c6/ende.py
+└─$ wget https://mercury.picoctf.net/static/b351a89e0bc6745b00716849105f87c6/ende.py
 ┌──(rinto㉿LAPTOP-LUUOMDHF)-[~/CTF/pico/python_wrangling]
-└─$ wget https://mercury.picoctf.net/static/b351a89e0bc6745b00716849105f8
-7c6/pw.txt
+└─$ wget https://mercury.picoctf.net/static/b351a89e0bc6745b00716849105f87c6/pw.txt
 ┌──(rinto㉿LAPTOP-LUUOMDHF)-[~/CTF/pico/python_wrangling]
-└─$ wget https://mercury.picoctf.net/static/b351a89e0bc6745b00716849105f8
-7c6/flag.txt.en
+└─$ wget https://mercury.picoctf.net/static/b351a89e0bc6745b00716849105f87c6/flag.txt.en
 ```
 
 setelah itu kita jalankan file python nya dan tidak lupa dengan text flagnya.
