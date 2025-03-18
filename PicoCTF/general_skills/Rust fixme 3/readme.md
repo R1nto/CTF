@@ -208,4 +208,4 @@ setelah berhasil kita jalankan lagi dan kita akan menemukan flag nya
 Using memory unsafe languages is a: PARTY FOUL! Here is your flag: picoCTF{n0w_y0uv3_f1x3d_1h3m_411}
 ```
 
-** picoCTF{n0w_y0uv3_f1x3d_1h3m_411}**
+**picoCTF{n0w_y0uv3_f1x3d_1h3m_411}**
