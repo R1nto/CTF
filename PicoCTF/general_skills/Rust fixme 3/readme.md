@@ -2,7 +2,7 @@
 
 Category : General Skills
 
-![images](images/Rust_)
+![images](images/Rust-fixme-3.png)
 
 # Description
 
