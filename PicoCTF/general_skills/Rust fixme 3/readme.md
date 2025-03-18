@@ -1,10 +1,8 @@
-# Magikarp Ground Mission
+# Rust fixme 3
 
 Category : General Skills
 
-Point : 30
-
-![images](images/Rust)
+![images](images/Rust_)
 
 # Description
 
