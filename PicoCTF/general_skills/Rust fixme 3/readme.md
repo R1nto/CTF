@@ -45,7 +45,7 @@ setelah berhasil di download saya setup rust nya terlebih dahulu
 └─$ cd/tmp/rust_proj
 ```
 
-setelah di setup saya mari kita jalankan 
+setelah di setup mari kita jalankan 
 
 ## build cargo
 ```console
