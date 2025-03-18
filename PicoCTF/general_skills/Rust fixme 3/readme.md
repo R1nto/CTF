@@ -4,7 +4,7 @@ Category : General Skills
 
 Point : 30
 
-![images](images/Screenshot 2025-03-18 143952.png)
+![images](images/Rust)
 
 # Description
 
