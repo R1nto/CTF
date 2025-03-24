@@ -38,7 +38,7 @@ setelah berhasil di download saya setup rust nya terlebih dahulu
 
 ```console
 ┌──(rinto㉿LAPTOP-LUUOMDHF)-[~]
-└─$ cp -r fixme3 /tmp/rust_proj2
+└─$ cp -r fixme2 /tmp/rust_proj2
 ```
 ```console
 ┌──(rinto㉿LAPTOP-LUUOMDHF)-[~]
